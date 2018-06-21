@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dcd944262b7be2e4cb1d74772f440d04
+timeCreated: 1517177599
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gabbaland
+  fontNames:
+  - Gabbaland
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
